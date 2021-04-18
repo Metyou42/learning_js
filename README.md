@@ -5,7 +5,7 @@
 
 My name is Andrii Matviichuk. I'm 18 years old. I live in Lviv. I study at the University of "Lviv Polytechnic" as a bachelor of specialty "cyber security". I’m a beginner backend programmer node.js
 
-I had experience: designer 1 year, target for 6 months, programmer python on freelance 1 year. Now I found a case that I really like, JavaScript node.js. 
+I had experience: designer 1 year, targetologist for 6 months, programmer python on freelance 1 year. Now I found a case that I really like, JavaScript node.js. 
 In the future after experience backend programmer, I will learn frontend agular/rect to be a fullstack programmer.
 
 I set myself a goal to become a junior backend developer in a year. A lot of people say it’s very hard and it’s almost impossible, but I believe in myself and I want to prove to myself that nothing is impossible for me
