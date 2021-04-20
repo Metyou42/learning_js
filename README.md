@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # What is this section for?
 
 
@@ -21,3 +22,6 @@ And this repository was created to monitor my prowess and how I go about my goal
 + Web technology for developers and JavaScript documentation, site - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 Thank you for your attention, all above this study at the moment. All ahead is :)
+=======
+You can go to the site http://old.code.mu/tasks/javascript, see interesting tasks and find my solutions here
+>>>>>>> old.code
