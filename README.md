@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # What is this section for?
 
 
